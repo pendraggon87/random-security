@@ -12,6 +12,8 @@
 
 
 ## Conferences
+*Note for Students: Many conferences offer severely discounted rates or sponsorships to allow for students to attend. Check out the conferences near you, or reach out to me if you would like assistance in trying to obtain a student rate*
+
 - [Call for Papers Time](https://cfptime.org/) - Lists the call for papers deadlines for many infosec conferences
 - [Infosec Conferences Lookup](https://infosec-conferences.com/) - Look up major cybersecurity conferences by month
 
