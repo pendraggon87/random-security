@@ -11,7 +11,8 @@
 - [Naked Security](https://nakedsecurity.sophos.com/)
 
 
-## Conferences
+## Social
+### Conferences
 *Note for Students: Many conferences offer severely discounted rates or sponsorships to allow for students to attend. Check out the conferences near you, or reach out to me if you would like assistance in trying to obtain a student rate*
 
 - [Call for Papers Time](https://cfptime.org/) - Lists the call for papers deadlines for many infosec conferences
@@ -23,5 +24,10 @@
 - [BSides Series](http://www.securitybsides.com)
 - [Black Hat](http://blackhat.com)
 - [Def Con](https://defcon.org)
+- [NoLa Con](https://nolacon.com/)
+
+### Meetups
+#### New York
+- [NYSEC](http://nysec.isis.poly.edu/)
 
 ## Tools
