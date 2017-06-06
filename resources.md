@@ -31,3 +31,13 @@
 - [NYSEC](http://nysec.isis.poly.edu/)
 
 ## Tools
+### Communications
+- [ProtonMail](https://protonmail.com) - Secure, encrypted email
+- [Signal]()
+- [Tor]()
+
+### Incident Response
+- [Mx Toolbox](https://mxtoolbox.com/SuperTool.aspx) Various lookup tools (DNS, Blacklists, etc.)
+
+## Shoutouts and Good Stuff
+- [EFF](https://www.eff.org)
