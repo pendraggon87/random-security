@@ -34,8 +34,8 @@
 ## Tools
 ### Communications
 - [ProtonMail](https://protonmail.com) - Secure, encrypted email
-- [Signal]()
-- [Tor]()
+- [Signal](https://whispersystems.org/)
+- [Tor](https://www.torproject.org/projects/torbrowser.html.en)
 
 ### Incident Response
 - [Mx Toolbox](https://mxtoolbox.com/SuperTool.aspx) Various lookup tools (DNS, Blacklists, etc.)
